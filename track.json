@@ -1,0 +1,38 @@
+{
+    "stories": [
+        {
+            "storyName": "Demo story",
+            "thumbnailUrl": "https://mobiledev.cloudforpharma.com/CLM/examples/thumb.jpg",
+            "documentFolders": [
+                {
+                    "folderName": "optionalFolder",
+                    "documents": [
+                        {
+                            "documentName": "documentName",
+                            "documentUrl": "https://mobiledev.cloudforpharma.com/CLM/examples/pdf02.pdf"
+                        }
+                    ]
+                },
+                {
+                    "folderName": "anotherFolder",
+                    "documents": [
+                        {
+                            "documentName": "document1",
+                            "documentUrl": "https://mobiledev.cloudforpharma.com/CLM/examples/pdf01.pdf"
+                        },
+                        {
+                            "documentName": "document2",
+                            "documentUrl": "https://mobiledev.cloudforpharma.com/CLM/examples/pdf03.pdf"
+                        }
+                    ]
+                }
+            ],
+            "visuals": [
+                {
+                    "visualName": "visual title",
+                    "visualUrl": "https://github.com/seifBenM1/demo/blob/main/Demo_SPA.zip"
+                }
+            ]
+        }
+    ]
+}
